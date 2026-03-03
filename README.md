@@ -23,7 +23,7 @@ Cada carpeta contiene su propio `README.md` con explicaciones detalladas.
 
 ---
 
-## 🎛Controllers
+## Controllers
 
 Scripts encargados de la gestión global del juego (niveles, música, video y flujo general).
 
