@@ -17,7 +17,7 @@ El proyecto integra historia, animaciones, efectos visuales y sistemas modulares
 
 ---
 
-# 📂Estructura del Proyecto
+# Estructura del Proyecto
 
 Cada carpeta contiene su propio `README.md` con explicaciones detalladas.
 
@@ -34,7 +34,7 @@ Scripts encargados de la gestión global del juego (niveles, música, video y fl
 
 ---
 
-## 💬Dialogues
+## Dialogues
 
 Sistema de narrativa y control de textos de personajes.
 
